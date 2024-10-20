@@ -9,8 +9,10 @@
 ## Run Application
 ```sh
 npm install
-
+```
+```sh
 php artisan serve
-
+```
+```sh
 npm run dev
 ```
